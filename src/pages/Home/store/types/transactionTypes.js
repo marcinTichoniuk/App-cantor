@@ -1,0 +1,4 @@
+export const ADD_TRANS = 'ADD_TRANS';
+export const REMOVE_TRANS = 'REMOVE_TRANS';
+export const DEFINE_CONVERTER = 'DEFINE_CONVERTER';
+export const CHANGE_CONVERTER = 'CHANGE_CONVERTER';
